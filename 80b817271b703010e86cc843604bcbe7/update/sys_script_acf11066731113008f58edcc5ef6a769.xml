@@ -6,7 +6,7 @@
         <action_insert>true</action_insert>
         <action_query>false</action_query>
         <action_update>true</action_update>
-        <active>false</active>
+        <active>true</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
@@ -102,15 +102,15 @@ function createID(tour_id) {
         <sys_domain>global</sys_domain>
         <sys_domain_path/>
         <sys_id>acf11066731113008f58edcc5ef6a769</sys_id>
-        <sys_mod_count>65</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_name> GTD Tour Name and Page Name Validation</sys_name>
         <sys_overrides/>
         <sys_package display_value="Guided Tours" source="com.glide.guided_tours">89e3410b6da620100acb70b353433030</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test GIT POC">80b817271b703010e86cc843604bcbe7</sys_scope>
         <sys_update_name>sys_script_acf11066731113008f58edcc5ef6a769</sys_update_name>
-        <sys_updated_by>soni</sys_updated_by>
-        <sys_updated_on>2021-06-23 19:27:33</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-23 19:31:35</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
