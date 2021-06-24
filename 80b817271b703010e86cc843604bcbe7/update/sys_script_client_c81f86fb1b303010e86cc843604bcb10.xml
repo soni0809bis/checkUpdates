@@ -8,32 +8,31 @@
         <global>true</global>
         <isolate_script>true</isolate_script>
         <messages/>
-        <name>client scipt 4</name>
+        <name>client scipt 5</name>
         <order/>
         <script><![CDATA[function onCellEdit(sysIDs, table, oldValues, newValue, callback) {
   var saveAndClose = true;
  //Type appropriate comment here, and begin script below
 	alert("test");
-	alert("checking upda");
-	alert("cheing update 3");
+	alert("testing2")
  
  callback(saveAndClose); 
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
-        <sys_created_by>soni</sys_created_by>
-        <sys_created_on>2021-06-23 19:25:29</sys_created_on>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-24 08:21:16</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>f66d532b1b703010e86cc843604bcb35</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>client scipt 4</sys_name>
+        <sys_id>c81f86fb1b303010e86cc843604bcb10</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>client scipt 5</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test GIT POC" source="80b817271b703010e86cc843604bcbe7">80b817271b703010e86cc843604bcbe7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test GIT POC">80b817271b703010e86cc843604bcbe7</sys_scope>
-        <sys_update_name>sys_script_client_f66d532b1b703010e86cc843604bcb35</sys_update_name>
+        <sys_update_name>sys_script_client_c81f86fb1b303010e86cc843604bcb10</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-06-24 08:29:40</sys_updated_on>
+        <sys_updated_on>2021-06-24 08:23:07</sys_updated_on>
         <table>cmdb_ci_acc</table>
         <type>onCellEdit</type>
         <ui_type>0</ui_type>
